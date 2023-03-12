@@ -8,7 +8,7 @@
 
 <!--- ordered and unordered lists --->
 
-1. Projects (30%) - 
+1. Projects (30%)
 * 13 Mar
 * 27 Mar
 * 24 Apr
